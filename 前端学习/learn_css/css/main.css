@@ -1,0 +1,9 @@
+div{
+    font: size 19px;color: red ;
+}
+#div1{
+
+}/*定义ID 权重高于class*/
+.big{
+
+}/*定义类*/
